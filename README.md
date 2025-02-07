@@ -7,15 +7,13 @@ In this project, I use Wireshark to capture and inspect unencrypted HTTP traffic
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Wireshark</b> (4.4.3)
+- <b>Test HTTP Website</b> (http://testphp.vulnweb.com/login.php) 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> (24H2)
-- <b>VirtualBox</b> (7.1.6)
-- <b>Ubuntu</b> (24.04.1 LTS)
-- <b>pfSense</b> (Version 2.7.2)
+- <b>PfSense</b> (Version 2.7.2)
 
 <h2>Program walk-through:</h2>
 

@@ -1,4 +1,4 @@
-# <h1>Analyzing HTTP Traffic </h1>
+# <h1>Extracting Login Credentials from HTTP Traffic </h1>
 
 <h2>Description</h2>
 In this project, I use Wireshark to capture and inspect unencrypted HTTP traffic, focusing on how sensitive data, such as login credentials, can be exposed when transmitted over non-HTTPS connections.

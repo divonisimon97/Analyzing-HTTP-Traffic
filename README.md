@@ -26,7 +26,7 @@ Capture Traffic: <br/>
 <img src="https://i.imgur.com/yDTyAB4.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
-Launch the utility & enter login info: <br/>
+Launch the Utility & Enter Login Info: <br/>
 <img src="https://i.imgur.com/inuqTYk.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />

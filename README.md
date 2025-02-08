@@ -18,8 +18,16 @@ In this project, I use Wireshark to capture and inspect unencrypted HTTP traffic
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch Wireshark: <br/>
+<img src="https://i.imgur.com/oxEMPCt.png" height="80%" width="80%" alt="Launch Wireshark"/>
+<br />
+<br />
+Capture Traffic: <br/>
+<img src="https://i.imgur.com/yDTyAB4.png" height="80%" width="80%" alt="Capture Traffic"/>
+<br />
+<br />
+Launch the utility & enter login info: <br/>
+<img src="https://i.imgur.com/inuqTYk.png" height="80%" width="80%" alt="Test Website"/>
 <br />
 <br />
 Select the disk:  <br/>

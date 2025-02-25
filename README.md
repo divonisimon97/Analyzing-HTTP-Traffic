@@ -19,27 +19,27 @@ In this project, I use Wireshark to capture and inspect unencrypted HTTP traffic
 
 <p align="center">
 Launch Wireshark: <br/>
-<img src="https://i.imgur.com/oxEMPCt.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/G1pxt2t.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 Capture Traffic: <br/>
-<img src="https://i.imgur.com/yDTyAB4.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/3v55Tw5.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 Launch the Website & Enter Login Info: <br/>
-<img src="https://i.imgur.com/inuqTYk.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/OutRC37.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 Filter and Inspect HTTP Traffic:  <br/>
-<img src="https://i.imgur.com/KTEkYrf.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/EWduhxq.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 Locate HTTP POST request: <br/>
-<img src="https://i.imgur.com/baJPWiA.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/w8KxFBQ.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 Open HTML Form URL Encoded & Extract Login Credentials:  <br/>
-<img src="https://i.imgur.com/RLhXII5.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
+<img src="https://i.imgur.com/6s0Zciy.png" height="80%" width="80%" alt="Analyzing HTTP Traffic"/>
 <br />
 <br />
 </p>
